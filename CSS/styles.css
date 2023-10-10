@@ -5,10 +5,14 @@ h1 {
     text-align: center;
     text-shadow: 30%;
     color: rgb(46, 203, 90);
+    background-color: dimgray;
+    border-radius: 60px;
 }
 
 h2 {
     text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
 }
 
 body {
